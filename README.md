@@ -1,10 +1,13 @@
-# 待出现的 wasm 游戏
-> 我迫不得已创建这个仓库，是因为需要记录一些未来极有可能移植到浏览器的 wasm 游戏
-> <br/>
-<mark>由 @黑雨D 进行记录的工作，若出现的项目将会在列表被移除 </mark>
+# Upcoming WASM Games
 
-最后更新时间：2026-10-11 
-| 名称 | 帖子来源 |
+> I had no choice but to create this repository because I needed a place to track games that are highly likely to be ported to WebAssembly (WASM) in the future.
+>
+> <br/>
+> <mark>Maintained by @黑雨D. Any project that becomes available will be removed from this list.</mark>
+
+Last updated: 2026-10-11
+
+| Name | Post Source |
 |---|---|
-| 极品飞车：最高通缉2005 | [帖子来源](https://www.reddit.com/r/needforspeed/comments/1x12cbk/i_ported_the_whole_entire_game_of_nfs_mw_2005//) |
-| 侠盗猎车手：圣安地列斯 | [帖子来源](https://www.reddit.com/r/sanandreas/comments/1wpdja5/gtasa_running_natively_in_browser/) |
+| Need for Speed: Most Wanted (2005) | [Source Post](https://www.reddit.com/r/needforspeed/comments/1x12cbk/i_ported_the_whole_entire_game_of_nfs_mw_2005//) |
+| Grand Theft Auto: San Andreas | [Source Post](https://www.reddit.com/r/sanandreas/comments/1wpdja5/gtasa_running_natively_in_browser/) |
