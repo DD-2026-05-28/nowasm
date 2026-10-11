@@ -11,3 +11,4 @@ Last updated: 2026-10-11
 |---|---|
 | Need for Speed: Most Wanted (2005) | [Source Post](https://www.reddit.com/r/needforspeed/comments/1x12cbk/i_ported_the_whole_entire_game_of_nfs_mw_2005//) |
 | Grand Theft Auto: San Andreas | [Source Post](https://www.reddit.com/r/sanandreas/comments/1wpdja5/gtasa_running_natively_in_browser/) |
+| Mario Kart Wii | [Source Post](https://www.reddit.com/r/MarioKartWii/comments/1wyi276/mario_kart_wii_running_natively_in_browser/) |
